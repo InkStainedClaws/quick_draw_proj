@@ -1,0 +1,23 @@
+body
+{
+    background-color: azure;
+}
+#score
+{
+    font-size: medium;
+    margin-left: 100px;
+}
+
+#timer
+{
+    float: right;
+    margin-right: 100px;
+    font-size: medium;
+}
+
+#to_be_drawn
+{
+    color: blue;
+}
+
+
